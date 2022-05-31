@@ -13,7 +13,7 @@ const obj = {
     name: "Test"
 }
 
-//const arr = [];
+const arr = [];
 
 const num1 = 1;
 const num2 = "1";
