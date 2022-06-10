@@ -11,7 +11,7 @@ const Animal = function(sound){
     this.breed = breed;
   }
   
-  Dog.prototype = new Animal('gaf-gat');
+  Dog.prototype = new Animal('gaf-gaf');
   
   const Cat = function(name, breed){
     this.name = name;
